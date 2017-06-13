@@ -1,0 +1,42 @@
+1-s2.0-S2212671614000274-main.txt
+power0.0109056286793
+reactive0.00817922150948
+system0.00817922150948
+optimization0.00545281433965
+distribution0.00545281433965
+algorithm0.00545281433965
+wind0.00545281433965
+developed0.00272640716983
+proposes0.00272640716983
+adjustable0.00272640716983
+Keywords: Wind energy, reactive power optimization, distribution power system
+
+
+1-s2.0-S2212671614000171-main.txt
+realistic0.011226382464
+background0.00841978684799
+action0.00841978684799
+videos0.00841978684799
+settings0.005613191232
+video0.005613191232
+recognition0.005613191232
+action-scene0.005613191232
+on0.00414332374249
+from0.00310749280686
+Keywords: action recognition, contextual cue, video processing, action-scene model
+
+
+1-s2.0-S2212671614000225-main.txt
+networks0.00862267327807
+web0.00574844885204
+approaches0.00574844885204
+or0.00574844885204
+ad0.00574844885204
+hoc0.00574844885204
+services0.00574844885204
+proposed0.00318237215161
+all0.00287422442602
+lack0.00287422442602
+Keywords: Energy Cost, Web Service Discovery Protocols, Energy consumption, Ad hoc Network;
+
+
